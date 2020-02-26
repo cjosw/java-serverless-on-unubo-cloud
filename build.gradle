@@ -22,7 +22,7 @@ dependencies {
     testImplementation 'junit:junit:4.12'
 
 //    compile project(':model')
-    compile project(':')
+//    compile project(':')
 }
 
 // In this section you declare where to find the dependencies of your project
